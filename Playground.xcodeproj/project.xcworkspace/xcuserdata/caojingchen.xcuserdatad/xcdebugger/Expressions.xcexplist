@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "GLOBAL">
+         <PersistentStrings>
+            <PersistentString
+               value = "qtree">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "quatertree_insert(qtreenode*, unsigned int, unsigned int, unsigned int, char*):init.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "qtree">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "init():init.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "qtree">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "get_node(pugi::xml_node*):init.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "qtree">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
